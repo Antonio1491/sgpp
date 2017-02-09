@@ -21,7 +21,7 @@
           </ul>
         </div>
         <div class="column">
-          <?php echo "<p>Hola ".$_SESSION['user']. "</p>"; ?>
+          <?php echo "<p>Hola ".$_SESSION['user']. "Act</p>"; ?>
         </div>
       </div>
     </header>
