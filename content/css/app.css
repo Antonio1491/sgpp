@@ -1,0 +1,28 @@
+body {
+  color: #385642; }
+
+header {
+  background: #385642;
+  color: white; }
+
+header small {
+  font-size: 1.2em; }
+
+header a {
+  color: #c3f5cf; }
+
+h5 {
+  margin-top: 2em;
+  margin-bottom: 1em; }
+
+label {
+  color: #4d5456; }
+
+legend {
+  font-weight: bold; }
+
+.formato-fecha {
+  color: #bac1bd; }
+
+.radiobtn {
+  padding-top: 1.7em; }
